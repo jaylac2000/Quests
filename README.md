@@ -20,3 +20,5 @@ Feel free to check out my server:
 
 - IP: play.scepternetwork.com
 - Port: 19132 (Default)
+
+My Server even has it's own repo including all of my private plugins without releasing any code. You can click [here](https://github.com/jaylac2000/ScepterNetwork) to view it.
