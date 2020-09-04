@@ -10,5 +10,5 @@ I will do up a better config and read me, I did this in a rush as I am working o
 
 Feel free to check out my server
 
-IP: play.scepternetwork.com
-Port: 19132 (Default)
+- IP: play.scepternetwork.com
+- Port: 19132 (Default)
