@@ -63,7 +63,7 @@ Feel free to check out my server:
 - IP: play.scepternetwork.com
 - Port: 19132 (Default)
 
-My Discord Server can be joined by clinking [here](discord.scepternetwork.com)
+My Discord Server can be joined by clicking [here](https://discord.scepternetwork.com)
 
 ----------
 
