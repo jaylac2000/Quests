@@ -11,7 +11,7 @@ finished-quest-message: "§l§2..§e[§dQuest§e]§2..§r§f GG, you finished th
 button-leave: "Leave"
 button-info-start: "Start the quest"
 button-info-pause: "Stop the quest"
-quest-already-finished: "You have already finished this quest!"
+quest-already-finished: "§l§2..§e[§dQuest§e]§2..§r§f You have already finished this quest!"
 paused-quest: "You stopped the quest : {QUEST}"
 started-quest: "You started the quest : {QUEST}"
 quest-opened: "Not started"
@@ -19,24 +19,24 @@ quest-inprogress: "§aCurrent quest"
 quest-finished: "§6Completed"
 
 categories:
-  General:
-    cuttree:
-      name: "Example 1"
-      description: "Break 5 wood"
-      type: breakblock
-      block: "17"
-      number: 5
-      rewards:
+  General: # Category Name
+    cuttree: # Quest Name (config only)
+      name: "Example 1" # Quest Name (in-game)
+      description: "Break 5 wood" # Description
+      type: breakblock # Type
+      block: "17" # Block they need to break/place/etc
+      number: 5 # Number of blocks they need to break/place/etc
+      rewards: # Rewards are given by commands, you can give anything rank by a command
         - "give {PLAYER} dirt 64"
         - "say {PLAYER} just finished a quest"
-    voyager:
+    voyager: # Second Quest under General Category, you can add unlimited
       name: "Example 2"
       description: "Move 100 blocks"
       type: move
       number: 100
       rewards:
         - "give {PLAYER} steak 64"
-  Others:
+  Others: # Second Category, however you can add umlimited
     example3:
       name: "Example 3"
       description: "Place 5 wood"
