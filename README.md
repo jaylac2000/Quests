@@ -1,5 +1,9 @@
 # Quests
 
+[![](https://poggit.pmmp.io/shield.state/Quests)](https://poggit.pmmp.io/p/Quests)
+[![](https://poggit.pmmp.io/shield.dl.total/Quests)](https://poggit.pmmp.io/p/Quests)
+[![](https://poggit.pmmp.io/shield.dl/Quests)](https://poggit.pmmp.io/p/Quests)
+
 A Quest Plugin - this was coded for my server and is no longer used on it. I might use it again in the future, but as of now I no longer use it so I decided to release it :D
 
 I have used it for a few seasons on my server, is good for starter gear or just simple quests
@@ -13,8 +17,8 @@ Features:
 - Detailed config.yml
 - Built in UI (FormAPI)
 - Custom Quests
-- Multiple Quests
-- Multiple Categories
+- Multiple Quests (unlimited)
+- Multiple Categories(unlimited
 - Custom Rewards (using commands)
 - Messages can be configured in the config.yml
 
