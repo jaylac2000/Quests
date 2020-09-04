@@ -6,6 +6,8 @@ I have used it for a few seasons on my server, is good for starter gear or just 
 
 I will do up a better config.yml and README (If not yet done), I did this README in a rush as I am working on a Prisons Server.
 
+----------
+
 Features:
 
 - Detailed config.yml
@@ -31,8 +33,11 @@ Permissions:
 
 - None (Default)
 
+----------
+
 Plugin Depends:
 
+- NONE
 - This plugin has built in forms using FormAPI however it DOES NOT depends on any other plugin.
 
 Errors:
@@ -43,18 +48,28 @@ Bugs:
 
 - NONE
 
+----------
+
 Updates:
 
 - Do I plan on doing any? Probably NOT. If you wish to do some updates and pull request it I will happily approve it.
 
 This is kind of a good plugin for a Factions Server. However I used it for Skyblock.
 
+----------
+
 Feel free to check out my server:
 
 - IP: play.scepternetwork.com
 - Port: 19132 (Default)
 
+My Discord Server can be joined by clinking [here](discord.scepternetwork.com)
+
+----------
+
 My Server even has it's own repo including all of my private plugins without releasing any code. You can view it [here](https://github.com/jaylac2000/ScepterNetwork)
+
+----------
 
 Media:
 
