@@ -1,11 +1,7 @@
 name: Quests
 author: ScepterMCPE - jaylac2000
 api: 3.0.0
-version: 1.0.0
+version: 1.0
 main: jaylac2000\Quests\Main
 website: https://scepternetwork.com/
 github: https://github.com/jaylac2000
-
-commands:
-  quest:
-    description: open up the quest menu
