@@ -1,8 +1,7 @@
 ---
-# {PLAYER} = Name of the player that finished the quest. ONLY ON REWARDS
+# {PLAYER} = Name of the player that finished the quest. ONLY WORKS ON REWARDS
 # {QUEST} = Name of the quest. Only where they are!
 # Types : move, breakblock, placeblock, kills
-# Rewards are only commands !
 
 category-select-title: "Quests"
 category-select-content: "Please select a category"
