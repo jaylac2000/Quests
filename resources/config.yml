@@ -35,7 +35,7 @@ categories:
       number: 100
       rewards:
         - "give {PLAYER} steak 64"
-  Others: # Second Category, however you can add umlimited
+  Others: # Second Category, however you can add unlimited
     example3:
       name: "Example 3"
       description: "Place 5 wood"
