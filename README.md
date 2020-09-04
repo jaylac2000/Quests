@@ -14,7 +14,7 @@ Commands:
 
 Permissions:
 
-- None (Default
+- None (Default)
 
 Feel free to check out my server:
 
