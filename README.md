@@ -41,8 +41,8 @@ Permissions:
 
 Plugin Depends:
 
-- NONE
-- This plugin has built in forms using FormAPI however it DOES NOT depends on any other plugin.
+- None
+- NOTE: This plugin has built in forms using FormAPI however it DOES NOT depend on any other plugin.
 
 Errors:
 
