@@ -1,8 +1,7 @@
 # Quests
 
 [![](https://poggit.pmmp.io/shield.state/Quests)](https://poggit.pmmp.io/p/Quests)
-[![](https://poggit.pmmp.io/shield.dl.total/Quests)](https://poggit.pmmp.io/p/Quests)
-[![](https://poggit.pmmp.io/shield.dl/Quests)](https://poggit.pmmp.io/p/Quests)
+[![](https://poggit.pmmp.io/shield.api/Quests)](https://poggit.pmmp.io/p/Quests)
 
 A Quest Plugin - this was coded for my server and is no longer used on it. I might use it again in the future, but as of now I no longer use it so I decided to release it :D
 
