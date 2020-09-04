@@ -23,9 +23,9 @@ class QuestCommand extends Command
 	private $category;
 
 	public function __construct(Main $plugin, string $name){
-		parent::__construct($name, "Ouvrir le menu des quêtes");
+		parent::__construct($name, "open up the quest menu");
 		$this->plugin = $plugin;
-		$this->setDescription("Ouvrir le menu des quêtes");
+		$this->setDescription("open up the quest menu");
 	}
 
 	public function execute(CommandSender $sender, string $label, array $args)
