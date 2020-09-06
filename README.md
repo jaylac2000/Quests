@@ -2,6 +2,7 @@
 
 [![](https://poggit.pmmp.io/shield.state/Quests)](https://poggit.pmmp.io/p/Quests)
 [![](https://poggit.pmmp.io/shield.api/Quests)](https://poggit.pmmp.io/p/Quests)
+[![Discord](https://img.shields.io/discord/692324167281934386?color=informational&label=discord)](https://discord.gg/9rMhGaF)
 
 A Quest Plugin - this was coded for my server and is no longer used on it. I might use it again in the future, but as of now I no longer use it so I decided to release it :D
 
