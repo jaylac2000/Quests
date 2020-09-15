@@ -5,7 +5,11 @@ branches:
 projects:
   Quests:
     path: ""
+    icon: "/logo.png"
+    lint:
+      phpstan: false
     libs:
     - src: jojoe77777/FormAPI/libFormAPI
+      version: ^1.3
 ...
 # - - - -
